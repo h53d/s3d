@@ -1,0 +1,21 @@
+Purpose:
+Shine3D is a lightweight 3D visualization tool: no registration, no uploads, and no internet required. Everything works offline, locally, and privately.
+
+Key Features
+ - Broad Format Support: Seamlessly load and display a wide range of 3D formats, including STL, OBJ, GLB, 3MF, USDZ, 3DS, 3DM, PLY, XYZ, AMF, VOX, VTK, VTP, and FBX.
+ - Dynamic Environments & Toon Shading: Freely choose from multiple preset scenarios or stylized shaders to make your models and anime figures truly "pop" with character-accurate lighting.
+ - Custom Branding & Logos: Personalize your presentation by uploading your own logo image to be used as the floor of the display stand.
+ - High-Res Image Capture: Generate crisp, high-resolution PNG screenshots for quick and lightweight sharing.
+ - Cinematic MP4 Recording: Capture high-resolution video demonstrations that preserve every nuance of your lighting, materials, and textures.
+ - Universal GIF Recording: Generate lightweight animations for convenient sharing across any social platform, browser, or messaging app.
+ - Local, Light, & Lightning Fast: Optimized for performance, Shine3D runs locally on your device for an instant, lag-free experience.
+ - Professional Integrity: No ads. No tracking. No data collection. Just a clean, efficient tool built for professionals.
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Optimized for high performance and resource efficiency.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024
